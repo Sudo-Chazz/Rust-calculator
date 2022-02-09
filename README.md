@@ -7,6 +7,6 @@ How to compile:
 
 ## How to use the calculator and its limitations:
 
-* only 2 numbers can be passed inot the calculator
+* only 2 numbers can be passed into the calculator
 * the supported operators are +, -, /, \*
   * the \* operator can optionally be passed as an 'x' instead to avoid the escape sequence required to use \*
